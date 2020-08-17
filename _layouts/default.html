@@ -1,14 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-	<meta charset="utf-8">
-	<title>{{ page.title }}</title>
-	<link rel="stylesheet" href="/assets/css/styles.css">
-	{% feed_meta %}
-	{% seo %}
-</head>
+{% include header.html %}
 <body>
 	{% include navigation.html %}
 	{{ content }}
+	{% include footer.html %}
 </body>
 </html>
