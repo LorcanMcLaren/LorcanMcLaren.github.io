@@ -1,3 +1,9 @@
+title: Lorcan McLaren
+email: lorcanmclaren@gmail.com
+author: Lorcan McLaren
+description:
+url: https://lorcanmclaren.com/
+
 collections:
   topics:
     output: true
@@ -17,6 +23,10 @@ defaults:
       path: ""
     values:
       layout: "default"
+
+
+show_social_icons: true
+github_username: LorcanMcLaren
 
 sass:
   sass_dir: assets/css
