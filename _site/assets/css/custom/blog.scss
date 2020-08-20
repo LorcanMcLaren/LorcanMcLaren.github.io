@@ -1,0 +1,11 @@
+#posts {
+    margin-top: 25px;
+    .card {
+        margin-bottom: 25px;
+        padding: 25px;
+
+        span.card-text p {
+            margin-bottom: 0px;
+        }
+    }
+}

@@ -1,0 +1,14 @@
+#post {
+    h1, h2, h3, h4 {
+        color: $primary;
+        padding-top: 10px;
+    }
+
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+        margin-bottom: 40px;
+      }
+}

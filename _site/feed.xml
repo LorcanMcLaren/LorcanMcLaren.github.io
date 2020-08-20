@@ -1,8 +1,60 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-17T23:40:02+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Lorcan McLaren</title><author><name>Lorcan McLaren</name></author><entry><title type="html">First Steps</title><link href="http://localhost:4000/2020/08/17/first-steps.html" rel="alternate" type="text/html" title="First Steps" /><published>2020-08-17T00:00:00+01:00</published><updated>2020-08-17T00:00:00+01:00</updated><id>http://localhost:4000/2020/08/17/first-steps</id><content type="html" xml:base="http://localhost:4000/2020/08/17/first-steps.html">&lt;p&gt;A banana is an edible fruit – botanically a berry – produced by several kinds
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-20T18:22:41+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Lorcan McLaren</title><author><name>Lorcan McLaren</name></author><entry><title type="html">First Steps</title><link href="http://localhost:4000/2020/08/17/first-steps.html" rel="alternate" type="text/html" title="First Steps" /><published>2020-08-17T00:00:00+01:00</published><updated>2020-08-17T00:00:00+01:00</updated><id>http://localhost:4000/2020/08/17/first-steps</id><content type="html" xml:base="http://localhost:4000/2020/08/17/first-steps.html">&lt;p&gt;A banana is an edible fruit – botanically a berry – produced by several kinds
 of large herbaceous flowering plants in the genus Musa.&lt;/p&gt;
 
 &lt;p&gt;In some countries, bananas used for cooking may be called “plantains”,
 distinguishing them from dessert bananas. The fruit is variable in size, color,
 and firmness, but is usually elongated and curved, with soft flesh rich in
 starch covered with a rind, which may be green, yellow, red, purple, or brown
-when ripe.&lt;/p&gt;</content><author><name>Lorcan</name></author><summary type="html">A banana is an edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa.</summary></entry></feed>
+when ripe.&lt;/p&gt;</content><author><name>Lorcan</name></author><summary type="html">A banana is an edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa.</summary></entry><entry><title type="html">Sample Post</title><link href="http://localhost:4000/2020/08/03/sample-post.html" rel="alternate" type="text/html" title="Sample Post" /><published>2020-08-03T00:00:00+01:00</published><updated>2020-08-03T00:00:00+01:00</updated><id>http://localhost:4000/2020/08/03/sample-post</id><content type="html" xml:base="http://localhost:4000/2020/08/03/sample-post.html">&lt;p&gt;A banana is an edible fruit – botanically a berry – produced by several kinds
+of large herbaceous flowering plants in the genus Musa.&lt;/p&gt;
+
+&lt;p&gt;In some countries, bananas used for cooking may be called “plantains”,
+distinguishing them from dessert bananas. The fruit is variable in size, color,
+and firmness, but is usually elongated and curved, with soft flesh rich in
+starch covered with a rind, which may be green, yellow, red, purple, or brown
+when ripe.&lt;/p&gt;</content><author><name>Lorcan</name></author><summary type="html">A banana is an edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa.</summary></entry><entry><title type="html">Sample Post</title><link href="http://localhost:4000/2020/08/02/sample-post.html" rel="alternate" type="text/html" title="Sample Post" /><published>2020-08-02T00:00:00+01:00</published><updated>2020-08-02T00:00:00+01:00</updated><id>http://localhost:4000/2020/08/02/sample-post</id><content type="html" xml:base="http://localhost:4000/2020/08/02/sample-post.html">&lt;p&gt;A banana is an edible fruit – botanically a berry – produced by several kinds
+of large herbaceous flowering plants in the genus Musa.&lt;/p&gt;
+
+&lt;p&gt;In some countries, bananas used for cooking may be called “plantains”,
+distinguishing them from dessert bananas. The fruit is variable in size, color,
+and firmness, but is usually elongated and curved, with soft flesh rich in
+starch covered with a rind, which may be green, yellow, red, purple, or brown
+when ripe.&lt;/p&gt;</content><author><name>Lorcan</name></author><summary type="html">A banana is an edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa.</summary></entry><entry><title type="html">Sample Post</title><link href="http://localhost:4000/2020/08/01/sample-post.html" rel="alternate" type="text/html" title="Sample Post" /><published>2020-08-01T00:00:00+01:00</published><updated>2020-08-01T00:00:00+01:00</updated><id>http://localhost:4000/2020/08/01/sample-post</id><content type="html" xml:base="http://localhost:4000/2020/08/01/sample-post.html">&lt;p&gt;A banana is an edible fruit – botanically a berry – produced by several kinds
+of large herbaceous flowering plants in the genus Musa.&lt;/p&gt;
+
+&lt;p&gt;In some countries, bananas used for cooking may be called “plantains”,
+distinguishing them from dessert bananas. The fruit is variable in size, color,
+and firmness, but is usually elongated and curved, with soft flesh rich in
+starch covered with a rind, which may be green, yellow, red, purple, or brown
+when ripe.&lt;/p&gt;</content><author><name>Lorcan</name></author><summary type="html">A banana is an edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa.</summary></entry><entry><title type="html">A sample post with many elements</title><link href="http://localhost:4000/2020/04/01/styled-post.html" rel="alternate" type="text/html" title="A sample post with many elements" /><published>2020-04-01T00:00:00+01:00</published><updated>2020-04-01T00:00:00+01:00</updated><id>http://localhost:4000/2020/04/01/styled-post</id><content type="html" xml:base="http://localhost:4000/2020/04/01/styled-post.html">&lt;h1 id=&quot;heading-1&quot;&gt;Heading 1&lt;/h1&gt;
+&lt;h2 id=&quot;heading-2&quot;&gt;Heading 2&lt;/h2&gt;
+&lt;h3 id=&quot;heading-3&quot;&gt;Heading 3&lt;/h3&gt;
+&lt;h4 id=&quot;heading-4&quot;&gt;Heading 4&lt;/h4&gt;
+
+&lt;p&gt;A &lt;a href=&quot;#&quot; target=&quot;_blank&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;terminal&quot;&gt;Terminal&lt;/h5&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;A terminal &lt;span class=&quot;nb&quot;&gt;command&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h5 id=&quot;some-html&quot;&gt;some html&lt;/h5&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;container py5&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Lorem ipsum&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h5 id=&quot;some-javascript&quot;&gt;some javascript&lt;/h5&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;ready&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;hello&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;A code section without any header&lt;/p&gt;
+&lt;div class=&quot;no-select-button&quot;&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;span&amp;gt;&lt;/span&gt;A small HTML snippet&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;An image
+&lt;img src=&quot;https://jekyllrb.com/img/logo-2x.png&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;</content><author><name>Lorcan McLaren</name></author><summary type="html">Heading 1 Heading 2 Heading 3 Heading 4</summary></entry></feed>

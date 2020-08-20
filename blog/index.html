@@ -1,0 +1,30 @@
+---
+title: Blog
+---
+<h1 class="text-info">Latest Posts</h1>
+
+<div id="posts">
+	<div class="container">
+	  <div class="row">
+		<div class="col">
+			{% for post in paginator.posts %}
+			<div class="card">
+				<h5 class="card-title"><a href="{{ post.url | prepend: site.url }}">{{ post.title }}</a></h5>
+				<p class="card-subtitle mb-2 text-muted">
+					{{ post.date | date: "%b %-d, %Y" }}
+			  	</p>
+			  	<span class="card-text">
+					{% if post.summary %}
+						{{ post.summary }}
+					{% else %}
+						{{ post.excerpt }}
+					{% endif %}
+				</span>
+			</div>
+		  {% endfor %}
+		</div>
+	  </div>
+	</div>
+</div>
+
+{% include pagination.html %}
